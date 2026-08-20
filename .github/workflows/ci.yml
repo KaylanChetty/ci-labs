@@ -1,0 +1,3 @@
+ren package.json.txt package.json
+ren index.js.txt index.js
+ren test.js.txt test.js
